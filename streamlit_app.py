@@ -74,10 +74,10 @@ CONTENT_BY_LABEL: dict[str, dict[str, list[str]]] = {
     #   "images": ["https://.../jjampong1.jpg", "https://.../jjampong2.jpg"],
     #   "videos": ["https://youtu.be/XXXXXXXXXXX"]
     # },
-    labels[0] : {"text" : ["중국식 냉면 맛있다"], "images" : ["https://www.esquirekorea.co.kr/resources_old/online/org_online_image/eq/71c93efd-352d-4fb4-8a98-dd1b51475442.jpg"]},
-    labels[1] : {"text" : ["짜장면 맛있다"], "images" : ["https://image.8dogam.com/resized/product/asset/v1/upload/6833c73eae0949eb8bcbed560c903198.jpeg?type=big&res=3x&ext=jpg"]},
-    labels[2] : {"text" : ["짬뽕 맛있다"], "images" : ["https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_8bQPUSFyzMbd_wasGlsV9OCATrNRcQBPuw&s"]},
-    labels[3] : {"text" : ["탕수 맛있다"], "images" : ["https://homecuisine.co.kr/files/attach/images/142/073/002/3419c948fb2f0c2a96b0bc49afd75947.JPG"]},
+    labels[0] : {"texts" : ["중국식 냉면 맛있다"], "images" : ["https://www.esquirekorea.co.kr/resources_old/online/org_online_image/eq/71c93efd-352d-4fb4-8a98-dd1b51475442.jpg"]},
+    labels[1] : {"texts" : ["짜장면 맛있다"], "images" : ["https://image.8dogam.com/resized/product/asset/v1/upload/6833c73eae0949eb8bcbed560c903198.jpeg?type=big&res=3x&ext=jpg"]},
+    labels[2] : {"texts" : ["짬뽕 맛있다"], "images" : ["https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_8bQPUSFyzMbd_wasGlsV9OCATrNRcQBPuw&s"]},
+    labels[3] : {"texts" : ["탕수 맛있다"], "images" : ["https://homecuisine.co.kr/files/attach/images/142/073/002/3419c948fb2f0c2a96b0bc49afd75947.JPG"]},
 }
 
 # ======================
